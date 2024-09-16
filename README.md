@@ -1,5 +1,6 @@
 # Card-sort-algorithm
 A new way to sort an array
+---------------------------------
 An attempt to derive a new ordering algorithm for arranging elements from a single dimension which we called Cardsort algorithm has been completed. 
 The cardsort algorithm can arrange numbers within a range from -∞ to +∞.
 We used the basics of programming with some of the things we gained knowledge within the research process and understanding of different ranking algorithms.
